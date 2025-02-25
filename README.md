@@ -30,9 +30,6 @@ This project predicts tags for StackOverflow questions using machine learning mo
 ## Results
 - **Evaluation Metrics**: F1 score (micro and macro), Hamming Loss.
 - **Best Model Performance**:
-  - Macro F1 score: 0.77
-  - Micro F1 score: 0.85
-  - Hamming Loss: 0.14
-
+  - micro F1 - 0.495
 ## Conclusion
 The project effectively predicts relevant tags for StackOverflow questions by leveraging multi-label classification techniques, with optimized performance through data preprocessing and model selection.
